@@ -4,7 +4,7 @@ title: Linux Installation
 sidebar_label: Linux
 ---
 
-There are two ways to use Keploy eBPF in linux, you can use either use:
+There are three ways to use Keploy eBPF in linux, you can use either use:
 
 1. [One-Click Install](#one-click-install-keploy).
 2. [Natively in Linux](#linux-native).

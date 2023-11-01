@@ -17,7 +17,7 @@ keywords:
   - docker
 ---
 
-There are two ways to use Keploy eBPF in windows, you can use either use:
+There are three ways to use Keploy eBPF in windows, you can use either use:
 1. [One-Click Install](#one-click-install-keploy).
 2. [Natively in Windows](#windows-native) using WSL.
 3. By [Using Docker](#using-docker).
